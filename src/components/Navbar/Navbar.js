@@ -19,7 +19,7 @@ function Navbar() {
               <Link className="nav-link" to='/portfolio'>My Portfolio</Link>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="https://www.linkedin.com/in/guillermo-martin-10441046/">My LinkedIn</a>
+              <a className="nav-link" href="https://www.linkedin.com/in/guillermo-martin-10441046/" target="blank">My LinkedIn</a>
             </li>
             
           </ul>

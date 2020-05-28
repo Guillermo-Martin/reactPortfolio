@@ -19,13 +19,7 @@ function About() {
               During the last few years I was there, I gained an interest in coding, particularly in web development. I learned about web development through a class offered by Udemy and really enjoyed it. I decided to quit my job as a forensic scientist to pursue a career in web development. I'm currently enrolled in a coding bootcamp offered by UC Berkeley Extension and I hope to become a front-end web developer.
             </p>
 
-            <p>
-              In my free time, I enjoy eating, exploring the Bay Area, playing video games, reading, and fencing.
-            </p>
           </div>
-          
-
-        
       </div>
     </div>
   );
