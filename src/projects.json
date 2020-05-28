@@ -1,0 +1,117 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Password Generator",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework3.jpg",
+    "description": "An application to generate a random password.",
+    "tryLink": "https://guillermo-martin.github.io/homework3/",
+    "repository":  "https://github.com/Guillermo-Martin/homework3"
+  },
+  {
+    "id": 2,
+    "name": "Code Quiz",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework4.jpg",
+    "description": "Test out your JavaScript knowledge.",
+    "tryLink": "https://guillermo-martin.github.io/homework4/",
+    "repository": "https://github.com/Guillermo-Martin/homework4"
+    
+  },
+  {
+    "id": 3,
+    "name": "Work Day Scheduler",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework5.jpg",
+    "description": "Plan your workday.",
+    "tryLink":  "https://guillermo-martin.github.io/homework5/",
+    "repository":  "https://github.com/Guillermo-Martin/homework5"
+    
+  },
+  {
+    "id": 4,
+    "name": "Weather Dashboard",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/homework6-screenshot.png",
+    "description": "Check out weather wherever you are.",
+    "tryLink": "https://guillermo-martin.github.io/homework6/",
+    "repository": "https://github.com/Guillermo-Martin/homework6"
+    
+  },
+  {
+    "id": 5,
+    "name": "Pet Adoption",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/pet_adoption_project.jpg",
+    "description": "Find a pet to adopt near you.",
+    "note": "Note:  The API key required to run this application may be expired.",
+    "tryLink": "https://guillermo-martin.github.io/project1/",
+    "repository": "https://github.com/Guillermo-Martin/project1"
+
+  },
+  {
+    "id": 6,
+    "name": "Good ReadMe Generator",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/readme_screenshot.png",
+    "description": "Create a ReadMe file for GitHub.",
+    "note": "Note:  This application requires a terminal to use.",
+    "tryLink": "https://github.com/Guillermo-Martin/goodReadMeGenerator",
+    "repository":  "https://github.com/Guillermo-Martin/goodReadMeGenerator"
+    
+    
+  },
+  {
+    "id": 7,
+    "name": "Team Profile",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/team_screenshot.png",
+    "description": "Create your team.",
+    "note": "Note:  This application requires a terminal to use.",
+    "tryLink": "https://github.com/Guillermo-Martin/teamProfileGenerator",
+    "repository":  "https://github.com/Guillermo-Martin/teamProfileGenerator"
+    
+  },
+  {
+    "id": 8,
+    "name": "Note Taker",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/noteTaker.png",
+    "description": "Take some notes.",
+    
+    "tryLink": "https://immense-dusk-60188.herokuapp.com/",
+    "repository":  "https://github.com/Guillermo-Martin/noteTaker"
+    
+  },
+  {
+    "id": 9,
+    "name": "Employee Management",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/employee_management_system.jpg",
+    "description": "Manage your employees.",
+    "note": "Note:  This application requires a terminal to use.",
+    "tryLink": "https://github.com/Guillermo-Martin/employeeManagementSystem",
+    "repository": "https://github.com/Guillermo-Martin/employeeManagementSystem"
+    
+  },
+  {
+    "id": 10,
+    "name": "Blog Site",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/blogsite.jpg",
+    "description": "A simple blog site.",
+    "tryLink": "https://project02blog.herokuapp.com/",
+    "repository": "https://github.com/Kerry-Jr/Project02"
+    
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/FitnessTracker.jpg",
+    "description": "Track your workouts.",
+    "tryLink": "https://peaceful-forest-29536.herokuapp.com/",
+    "repository": "https://github.com/Guillermo-Martin/workoutTracker"
+    
+  },
+  {
+    "id": 12,
+    "name": "Employee Directory",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/EmployeeDirectory.jpg",
+    "description": "An employee directory.",
+    "tryLink": "https://infinite-thicket-84161.herokuapp.com/",
+    "repository": "https://github.com/Guillermo-Martin/employeeDirectory"
+    
+  }
+]

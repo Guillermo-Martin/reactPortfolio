@@ -1,9 +1,29 @@
 import React from 'react';
+import './../assets/styles/portfolio.css';
 
-
-function Portfolio() {
+function Portfolio(props) {
   return (
-    <h1>THIS IS THE PORTFOLIO PAGE</h1>
+    <div>
+
+      
+      
+      <div className="card">
+        <img src={props.image} className="card-img-top" alt="..." />
+          <div className="card-body ">
+            <h5 className="card-title">{props.name}</h5>
+            <p className="card-text">{props.description}</p>
+            <p className="card-text">{props.note}</p>
+            <div className="">
+              <a href={props.tryLink} className="btn btn-primary" target="blank">Try It!</a>
+              <a href={props.repository} className="btn btn-primary" target="blank">See the Repository!</a>
+            </div>
+          </div>
+      </div>
+      
+      
+
+    </div>
+
   );  
 }
 
