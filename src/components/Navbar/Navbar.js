@@ -13,13 +13,13 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item active">
-              <Link className="nav-link" to="/about">About</Link>
+              <Link className="nav-link" to="/about">About Me</Link>
             </li>
             <li className="nav-item active">
-              <Link className="nav-link" to='/portfolio'>Portfolio</Link>
+              <Link className="nav-link" to='/portfolio'>My Portfolio</Link>
             </li>
             <li className="nav-item active">
-              <Link className="nav-link" to="/contact">Contact</Link>
+              <a className="nav-link" href="https://www.linkedin.com/in/guillermo-martin-10441046/">My LinkedIn</a>
             </li>
             
           </ul>
