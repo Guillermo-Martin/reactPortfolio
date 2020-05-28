@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import Portfolio from './../pages/Portfolio';
-import projects from './../projects.json';
-// import Wrapper from './../components/Wrapper/Wrapper';
+import Portfolio from '../../pages/Portfolio';
+import projects from '../../projects.json';
 import './portfolioContainer.css';
 
 class PortfolioContainer extends Component {
@@ -10,11 +9,9 @@ class PortfolioContainer extends Component {
     projects: projects,
   }
 
-  // Next steps: 052520
-  // 1. get cards to line up in a row
 
   render() {
-    // console.log(this.state.projects);
+    // map through project data and create a Portfolio element (card) for each project
     const projectsArr = this.state.projects;
     const newProjectsArr = projectsArr.map((project) => 
       <Portfolio 
@@ -30,16 +27,12 @@ class PortfolioContainer extends Component {
 
 
     return(
-        // <Wrapper>
         <div className='flex-container'>
 
-        
+          {/* render the newProjects array */}
           {newProjectsArr}
 
         </div>
-        // </Wrapper>
-          
-      
     );
   }
 }
