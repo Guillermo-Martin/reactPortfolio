@@ -98,5 +98,13 @@
     "description": "An employee directory.",
     "tryLink": "https://infinite-thicket-84161.herokuapp.com/",
     "repository": "https://github.com/Guillermo-Martin/employeeDirectory"
+  },
+  {
+    "id": 13,
+    "name": "Planet",
+    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Project3_pic1.png",
+    "description": "Plan and keep track of your events.",
+    "tryLink": "https://blooming-atoll-78659.herokuapp.com/",
+    "repository": "https://github.com/jngo2013/Project03"
   }
 ]
