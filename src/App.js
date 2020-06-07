@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from './pages/About';
-import PortfolioContainer from './containers/PortfolioContainer/PortfolioContainer'
+import PortfolioContainer from './containers/PortfolioContainer/PortfolioContainer';
 
 function App() {
   return (
