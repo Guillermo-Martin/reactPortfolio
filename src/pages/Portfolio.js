@@ -9,7 +9,6 @@ class Portfolio extends Component {
     projects: projects,
   }
 
-
   render() {
     // map through project data and create a Bootstrap card for each project
     const projectsArr = this.state.projects;
@@ -24,7 +23,6 @@ class Portfolio extends Component {
         note={project.note}
       />
     );
-
 
     return(
         <div className='flex-container'>
