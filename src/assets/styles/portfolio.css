@@ -1,18 +1,7 @@
-.card {
-  min-height: 500px;
-  width: 18rem;
-}
+/* Using flexbox:  https://www.w3schools.com/css/css3_flexbox.asp */
 
-.card-body {
+.flex-container {
   display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-
-.card-img-top {
-  min-height: 250px;
-}
-
-.btn {
-  margin-top: auto;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
