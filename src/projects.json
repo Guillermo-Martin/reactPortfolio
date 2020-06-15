@@ -4,6 +4,7 @@
     "name": "Password Generator",
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework3.jpg",
     "description": "An application to generate a random password.",
+    "technologies":  "Made with:  HTML, CSS, JavaScript, and GitHub Pages.",
     "tryLink": "https://guillermo-martin.github.io/homework3/",
     "repository":  "https://github.com/Guillermo-Martin/homework3"
   },
@@ -12,6 +13,7 @@
     "name": "Weather Dashboard",
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/homework6-screenshot.png",
     "description": "Check out weather wherever you are.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
     "tryLink": "https://guillermo-martin.github.io/homework6/",
     "repository": "https://github.com/Guillermo-Martin/homework6"
   },
@@ -20,6 +22,7 @@
     "name": "Pet Adoption",
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/pet_adoption_project.jpg",
     "description": "Find a pet to adopt near you.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Foundation, AJAX, PetFinder API, and GitHub Pages.",
     "note": "Note:  The API key required to run this application may be expired.",
     "tryLink": "https://guillermo-martin.github.io/project1/",
     "repository": "https://github.com/Guillermo-Martin/project1"
@@ -29,6 +32,7 @@
     "name": "Blog Site",
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/blogsite.jpg",
     "description": "A simple blog site.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, React, Bootstrap, TravisCI, ESLint, Express, mySQL2, Node.js, and Heroku.",
     "tryLink": "https://project02blog.herokuapp.com/",
     "repository": "https://github.com/Kerry-Jr/Project02"
   },
@@ -37,7 +41,9 @@
     "name": "Planet",
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Project3_pic1.png",
     "description": "Plan and keep track of your events.",
+    "technologies": "Made with:  MongoDB, Express.js, React, Node.js, Semantic UI React, Redux, Mongoose, TravisCI, User Authentication Technologies, and Heroku.",
     "tryLink": "https://blooming-atoll-78659.herokuapp.com/",
+    "note": "Note:  Use the following guest account to try out the application:  Email: testuser@test.com, Password: 1234567",
     "repository": "https://github.com/jngo2013/Project03"
   }
 ]

@@ -21,6 +21,7 @@ class Portfolio extends Component {
         tryLink={project.tryLink}
         repository={project.repository}
         note={project.note}
+        technologies={project.technologies}
       />
     );
 
