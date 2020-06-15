@@ -25,12 +25,22 @@ class Portfolio extends Component {
     );
 
     return(
-        <div className='flex-container'>
+      <div>
 
+        <div className="container mb-5">
+          <h1>Portfolio</h1>
+          <h3>Here are some projects I've worked on.</h3>
+        </div>
+          
+        
+        <div className="flex-container">
+          
           {/* render the newProjects array, which is an array of Bootstrap cards */}
           {newProjectsArr}
 
         </div>
+      </div>
+        
     );
   }
 }
