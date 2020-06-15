@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import guillermo_martin_half from './../assets/images/guillermo_martin_half.jpeg';
 import './../assets/styles/about.css';
 
@@ -41,6 +42,10 @@ function About() {
 
             <p>
               In my spare time, I enjoy playing video games, reading, exercising, exploring all that the Bay Area has to offer, and fencing.
+            </p>
+
+            <p>
+              Check out my <Link to="/portfolio" >portfolio</Link>!
             </p>
           </div>
 
