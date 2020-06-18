@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Password Generator",
-    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework3.jpg",
+    "image": "https://guillermo-martin.github.io/responsivenessPortfolio/Assets/Images/Homework3.jpg",
     "description": "An application to generate a random password.",
     "technologies":  "Made with:  HTML, CSS, JavaScript, and GitHub Pages.",
     "tryLink": "https://guillermo-martin.github.io/passwordGenerator/",
@@ -11,7 +11,7 @@
   {
     "id": 4,
     "name": "Weather Dashboard",
-    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/homework6-screenshot.png",
+    "image": "https://guillermo-martin.github.io/responsivenessPortfolio/Assets/Images/homework6-screenshot.png",
     "description": "Check out weather wherever you are.",
     "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
     "tryLink": "https://guillermo-martin.github.io/weatherDashboard/",
@@ -20,7 +20,7 @@
   {
     "id": 5,
     "name": "Pet Adoption",
-    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/pet_adoption_project.jpg",
+    "image": "https://guillermo-martin.github.io/responsivenessPortfolio/Assets/Images/pet_adoption_project.jpg",
     "description": "Find a pet to adopt near you.",
     "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Foundation, AJAX, PetFinder API, and GitHub Pages.",
     "note": "Note:  The API key required to run this application may be expired.",
@@ -30,7 +30,7 @@
   {
     "id": 10,
     "name": "Blog Site",
-    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/blogsite.jpg",
+    "image": "https://guillermo-martin.github.io/responsivenessPortfolio/Assets/Images/blogsite.jpg",
     "description": "A simple blog site.",
     "technologies": "Made with:  HTML, CSS, JavaScript, React, Bootstrap, TravisCI, ESLint, Express, mySQL2, Node.js, and Heroku.",
     "tryLink": "https://project02blog.herokuapp.com/",
@@ -39,7 +39,7 @@
   {
     "id": 13,
     "name": "Planet",
-    "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Project3_pic1.png",
+    "image": "https://guillermo-martin.github.io/responsivenessPortfolio/Assets/Images/Project3_pic1.png",
     "description": "Plan and keep track of your events.",
     "technologies": "Made with:  MongoDB, Express.js, React, Node.js, Semantic UI React, Redux, Mongoose, TravisCI, User Authentication Technologies, and Heroku.",
     "tryLink": "https://blooming-atoll-78659.herokuapp.com/",
