@@ -5,8 +5,8 @@
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/Homework3.jpg",
     "description": "An application to generate a random password.",
     "technologies":  "Made with:  HTML, CSS, JavaScript, and GitHub Pages.",
-    "tryLink": "https://guillermo-martin.github.io/homework3/",
-    "repository":  "https://github.com/Guillermo-Martin/homework3"
+    "tryLink": "https://guillermo-martin.github.io/passwordGenerator/",
+    "repository":  "https://github.com/Guillermo-Martin/passwordGenerator"
   },
   {
     "id": 4,
@@ -14,8 +14,8 @@
     "image": "https://guillermo-martin.github.io/homework2/Assets/Images/homework6-screenshot.png",
     "description": "Check out weather wherever you are.",
     "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, OpenWeather API, Moment.js, and GitHub Pages.",
-    "tryLink": "https://guillermo-martin.github.io/homework6/",
-    "repository": "https://github.com/Guillermo-Martin/homework6"
+    "tryLink": "https://guillermo-martin.github.io/weatherDashboard/",
+    "repository": "https://github.com/Guillermo-Martin/weatherDashboard"
   },
   {
     "id": 5,
