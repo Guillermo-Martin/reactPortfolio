@@ -17,7 +17,7 @@ function About() {
         <div className="row">
           
           {/* Column to hold my picture and icons */}
-          <div className="col">
+          <div className="col-lg-6">
 
             <img src={guillermo_martin_half} alt="Guillermo's half marathon" className="w-100" />
 
@@ -31,7 +31,7 @@ function About() {
           </div>
 
           {/* Column for About Me */}
-          <div className="col">
+          <div className="col-lg-6">
             <p className="aboutText">
               I'm from Virginia Beach, Virginia. I have a Bachelor's of Science Degree in Biology from James Madison University and a Master's of Science Degree in Forensic Science with a specialization in criminalistics from the University of Central Oklahoma. I moved to the Bay Area more than 10 years ago when I got a job at the Alameda County Sheriff's Office Crime Lab as a forensic scientist. I worked there for more than 10 years, primarily in the Forensic Biology and DNA unit. I also got to work in latent prints and processed crime scenes.  During the last few years I was there, I gained an interest in coding, particularly in web development. I learned about web development through a class offered by Udemy and really enjoyed it. I decided to quit my job as a forensic scientist to pursue a career in web development.
             </p>
